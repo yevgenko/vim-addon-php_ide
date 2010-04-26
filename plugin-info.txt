@@ -1,0 +1,10 @@
+{
+  "name" : "vim-addon-php_ide",
+  "version" : "dev",
+  "author" : "Yevgeniy A. Viktorov <wik@rentasite.com.ua>",
+  "repository" : {"type": "git", "url": "git://github.com/yviktorov/vim-addon-php_ide.git"},
+  "dependencies" : {
+    "snipmate" : {},
+  },
+  "description" : ""
+}
